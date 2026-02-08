@@ -1,0 +1,11 @@
+{
+  "name": "reyz-god-edition",
+  "version": "1.1.0",
+  "description": "Final Base Bot by Reyz4YouXGod",
+  "main": "index.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "npm:reyz4you-baileys-v1@latest",
+    "pino": "^7.0.5",
+    "@hapi/boom": "^9.1.4"
+  }
+}
